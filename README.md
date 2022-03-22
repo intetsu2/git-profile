@@ -3,10 +3,10 @@
 <p>I’m currently learning and improving in Python, SQL, JavaScript, CSS, and HTM.L</p>
 
 # How to reach me
-- ## ndaboreheyepaul@gmail.com
-- ## [Linkedin](linkedin.com/in/paul-ndaboreheye-7408aa217)
-- ## [Twitter](https://twitter.com/intetsu_n6)
-- ## [Instagram]()
+- ### ndaboreheyepaul@gmail.com
+- ### [Linkedin](linkedin.com/in/paul-ndaboreheye-7408aa217)
+- ### [Twitter](https://twitter.com/intetsu_n6)
+- ### [Instagram]()
 
 # My skills
 
