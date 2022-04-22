@@ -4,9 +4,9 @@
 
 # How to reach me
 - ### ndaboreheyepaul@gmail.com
-- ### [Linkedin](linkedin.com/in/paul-ndaboreheye-7408aa217)
+- ### [Linkedin](https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/)
 - ### [Twitter](https://twitter.com/intetsu_n6)
-- ### [Instagram]()
+- ### [Instagram](https://www.instagram.com/paul_nn6/)
 
 # My skills
 
