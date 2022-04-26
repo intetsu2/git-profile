@@ -2,7 +2,7 @@
 <p>I am a fast learner who is interested in Web Development and Data Science.</p>
 <p>I’m currently learning and improving in Python, SQL, JavaScript, CSS, and HTML.</p>
 
-# How to reach me
+## How to reach me
 - ### ndaboreheyepaul@gmail.com
 - ### [Linkedin](https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/)
 - ### [Twitter](https://twitter.com/intetsu_n6)
