@@ -42,7 +42,7 @@ I am a fast learner who is interested in Web Development and Data Science. I’m
 ### :fire: My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intetsu2&layout=compact&theme=vision-friendly-dark)](https://github.com/Paul/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=intetsu2&theme=dark&background=000000)](https://git.io/streak-stats) ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=intetsu2&show_icons=true&theme=dark&background=000000l)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=intetsu2&theme=dark&background=000000)](https://github.com/intetsu2) ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=intetsu2&show_icons=true&theme=dark&background=000000l)
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=intetsu2&style=flat-square&color=blue" alt=""/>
