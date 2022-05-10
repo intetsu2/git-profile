@@ -16,7 +16,7 @@ I am a fast learner who is interested in Web Development and Data Science. I’m
   <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/paul_nn6/">
+  <a href="ndaboreheyepaul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/intetsu_n6">
