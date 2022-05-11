@@ -1,14 +1,14 @@
 <!-- introduction -->
 <h1 align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi, I'm Paul Ndaboreheye
+   Hi, I'm <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L" target="_blank"> Paul Ndaboreheye</a>
 </h1>
 
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Web+Dev+and+Data+Science" /> </h3>
+
 ### :man_technologist: About Me :
-I am a fast learner who is interested in Web Development and Data Science. I’m currently learning and improving in HTML, CSS, JavaScript, Python, and SQL.
-<div align="center">
-  <img src="https://media2.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e47cjrcw6ieln7pg0ceoztjjidae6b2knflc868s89c&rid=giphy.gif&ct=s" width="300"/>
-</div>
+- 🌱 Always learning
+- 💬 Happy to talk about **Web Development, Python, SQL**
 
 <!-- where u can be reached -->
 ### How to reach me:
@@ -40,10 +40,17 @@ I am a fast learner who is interested in Web Development and Data Science. I’m
 ---
 
 ### :fire: My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intetsu2&layout=compact&theme=vision-friendly-dark)](https://github.com/Paul/github-readme-stats)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=intetsu2&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=intetsu2&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+  </tr>
+</table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=intetsu2&theme=dark&background=000000)](https://github.com/intetsu2) ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=intetsu2&show_icons=true&theme=dark&background=000000l)
-
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intetsu2&theme=dark" alt="jigar-sable" /></p>
+ </div>
+  
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=intetsu2&style=flat-square&color=blue" alt=""/>
 </div>
