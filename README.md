@@ -1,6 +1,6 @@
 <!-- introduction -->
 <h1 align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
    Hi, I'm <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L" target="_blank"> Paul Ndaboreheye</a>
 </h1>
 
@@ -13,7 +13,7 @@
 <!-- where u can be reached -->
 ### How to reach me:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L">
+  <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L" title="Check out my linkedin page" traget="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="ndaboreheyepaul@gmail.com">
