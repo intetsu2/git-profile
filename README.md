@@ -1,7 +1,7 @@
 <!-- introduction -->
-<h1 align="center">
+<h1 align="center" title="My name">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-   Hi, I'm <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L" target="_blank"> Paul Ndaboreheye</a>
+   Hi, I'm <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L" target="_blank" title="My name"> Paul Ndaboreheye</a>
 </h1>
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Web+Dev+and+Data+Science" /> </h3>
@@ -16,13 +16,13 @@
   <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/L" title="Check out my linkedin page" traget="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ndaboreheyepaul@gmail.com">
+  <a href="ndaboreheyepaul@gmail.com" title="My email" traget="_blank">
     <img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/intetsu_n6">
+  <a href="https://twitter.com/intetsu_n6" title="Check out my twitter page" traget="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/paul_nn6/">
+  <a href="https://www.instagram.com/paul_nn6/" title="Check out my instagram page" traget="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
