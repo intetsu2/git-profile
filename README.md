@@ -1,18 +1,18 @@
 <!-- Introduction -->
 <h1 align="center" title="My name">
    <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" />
-   Hi, I'm <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/" target="_blank" title="My name">Paul Ndaboreheye</a>
+   Hello, there
 </h1>
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Web+Developer+and+Data+Scientist" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Web+Development+and+Data+Science" /> </h3>
 
 <!-- About me -->
 ### :man_technologist: About Me :
-- 🌱 I'm always learning and expanding my skills
-- 💬 I'm always happy to discuss topics related to **Web Development, Python, and SQL**
+- 🌱 Always learning and expanding my skills
+- 💬 Always happy to discuss topics related to **Web Development, Python, C++, JS, and SQL**
 
 <!-- Contact information -->
-### How to reach me:
+### Contact:
 <div id="badges">
   <a href="https://www.linkedin.com/in/paul-ndaboreheye-7408aa217/" title="Check out my LinkedIn page" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -57,7 +57,7 @@
    </table>
 </div>
 
-### :fire: My stats:
+### :fire: Stats:
 <div align="center">
 <table>
   <tr>
